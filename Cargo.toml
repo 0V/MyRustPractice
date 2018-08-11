@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["G2 <g2simm+0v@gmail.com>"]
 
 [dependencies]
+cv = { git = "https://github.com/nebgnahz/cv-rs.git" }
+
